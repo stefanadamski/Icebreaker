@@ -1,0 +1,54 @@
+{
+    "Header": {
+        "intro": " Przełam lody",
+        "lines": "Lodołamacze używane są na zamarzających wodach żeglownych, aby umożliwić w ten sposób żeglugę"
+    },
+    "Features": {
+        "firstFeature": "Analiza danych",
+        "description1": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej.",
+
+        "secondFeature": "Statystyka",
+        "description2": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej",
+
+        "thirdFeature": "Monitorowanie",
+        "description3": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej.",
+
+        "fourthFeature": "Sztuczna Inteligencja",
+        "description4": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej."
+    },
+    "About": {
+        "paragraph": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej (np. lodu morskiego). Lodołamacze używane są na zamarzających wodach żeglownych, aby umożliwić w ten sposób żeglugę w okresie zimowym.",
+        "Why": [
+            "Jednostka pływająca",
+            "Jednostka pływająca",
+            "Jednostka pływająca",
+            "Jednostka pływająca"
+        ]
+    },
+    "Strategies": {
+        "strategyOne": "Icebreaker",
+        "description5": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej",
+
+        "strategyTwo": "Icebreaker",
+        "description6": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej",
+
+        "strategyThree": "Icebreaker",
+        "description7": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej"
+    },
+    "Portfolio": {
+        "portfolioTitle": "Jednostka pływająca o specjalnej, wzmocnionej konstrukcji kadłuba umożliwiającej łamanie pokrywy lodowej (np. lodu morskiego). Lodołamacze używane są na zamarzających wodach żeglownych, aby umożliwić w ten sposób żeglugę w okresie zimowym.",
+        "photo1": "Icebreaker1",
+        "photo2": "Icebreaker2",
+        "photo3": "Icebreaker3",
+        "photo4": "Icebreaker4",
+        "photo5": "Icebreaker5",
+        "photo6": "Icebreaker6"
+    },
+    "Contact": {
+        "address": "ul. Srebrna 15, 32-010 Łuczyce ",
+        "phone": "+48 555 555 555",
+        "email": "ice-breaker@gmail.com",
+        "facebook": "https://facebook.com",
+        "linkedin": "https://pl.linkedin.com"
+    }
+}
